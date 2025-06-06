@@ -8,6 +8,12 @@ In the modern era of increasing digital connectivity, understanding human person
 - https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data
 
 
+<h2>📓 Notebook</h2>
+
+The main implementation and analysis of the personality classification model can be found in the Jupyter Notebook below. This notebook contains detailed steps including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and final results.
+
+👉 [Click here to open the Machine Learning Algorithm notebook](./collab%20Algorithm/MachineLearningAlgorithm_googlecollab.ipynb)
+
 <h2>📷  Screenshots:</h2>
 
 ![Screenshot 1](image/ss1.png)  
