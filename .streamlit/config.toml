@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#ce93d8"            # ungu muda (tombol & aksen)
+backgroundColor = "#fce4ec"         # pink pastel (latar utama)
+secondaryBackgroundColor = "#f3e5f5" # ungu pastel (sidebar)
+textColor = "#3c3c3c"               # abu gelap
+font = "sans serif"
+
