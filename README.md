@@ -10,7 +10,7 @@ In the modern era of increasing digital connectivity, understanding human person
 
 The main implementation and analysis of the personality classification model can be found in the Jupyter Notebook below. This notebook contains detailed steps including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and final results.
 
-## 🛠️ Technologies Used
+Technologies Used
 - Python
 - Jupyter Notebook
 - Pandas, Numpy
